@@ -20,3 +20,9 @@ const toggleHambugerMenu = () => {
 };
 
 document.addEventListener("DOMContentLoaded", toggleHambugerMenu);
+
+window.addEventListener("resize", () => {
+    const idRe = document.querySelector(".id-resieze");
+    console.log("alsdfjasdf")
+    idRe.textContent = window.innerHeight;
+})
