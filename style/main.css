@@ -5,7 +5,7 @@
 /* ========== Common css class =========== */
 body {
     overflow: hidden;
-    height: 100dvh;
+    /* height: 100dvh; */
 }
 .container {
     width: 100%;
