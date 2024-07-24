@@ -1,0 +1,41 @@
+:root {
+
+/* Colors: */
+--color-333333: #333333;
+--color-7b7b7b: #7B7B7B;
+--color-42a7c2: #42A7C2;
+--color-eaf1f7: #EAF1F7;
+--color-ffffff: #FFFFFF;
+--color-f8f9fa: #F8F9FA;
+--color-afafaf: #AFAFAF;
+--color-ced4da: #CED4DA;
+--color-707070: #707070;
+--color-e1e8ef: #E1E8EF;
+
+/* Font/text values */
+/* --font-family-noto-sans-jp-regular: Noto Sans JP Regular;
+--font-family-noto-sans-jp-bold: Noto Sans JP Bold;
+--font-family-noto-sans-jp-medium: Noto Sans JP Medium; */
+--font-family-noto-sans-jp: "Noto Sans JP", sans-serif;
+--font-style-normal: normal;
+--font-weight-normal: normal;
+--font-weight-regular: 400;
+--font-weight-medium: 500;
+--font-weight-bold: 700;
+
+--font-size-12: 12px;
+--font-size-14: 14px;
+--font-size-16: 16px;
+--font-size-18: 18px;
+--font-size-20: 20px;
+--font-size-26: 26px;
+--character-spacing-0: 0px;
+--character-spacing-1-8: 1.8px;
+--line-spacing-20: 20px;
+--line-spacing-24: 24px;
+--line-spacing-27: 27px;
+--line-spacing-29: 29px;
+--line-spacing-30: 30px;
+--line-spacing-36: 36px;
+--line-spacing-38: 38px;
+}
